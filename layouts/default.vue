@@ -43,6 +43,16 @@
           }"
         >
         </sidebar-item>
+        
+        <sidebar-item
+          :link="{
+            name: 'Reportes',
+            icon: 'tim-icons icon-attach-87',
+            path: '/reports'
+          }"
+        >
+        </sidebar-item>        
+        
       </template>
     </side-bar>
 
